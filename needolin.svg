@@ -75,12 +75,12 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1"
-       x="-0.14576456"
-       y="-1.8669076"
-       width="1.2915291"
-       height="4.7338151"><feGaussianBlur
+       x="-0.099673154"
+       y="-1.2765831"
+       width="1.1993463"
+       height="3.5531661"><feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="10.702307"
+         stdDeviation="7.3181895"
          id="feGaussianBlur1" /></filter></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -93,7 +93,7 @@
        rx="88.106247"
        ry="6.8791666"
        transform="matrix(1.8760338,0,0,0.8104662,-209.73852,41.463364)" /><ellipse
-       style="opacity:0.62441727;fill:#000000;fill-opacity:1;stroke-width:0.264583;filter:url(#filter1)"
+       style="opacity:0.33031764;fill:#000000;fill-opacity:1;stroke-width:0.264583;filter:url(#filter1)"
        id="ellipse1"
        cx="345.77283"
        cy="218.76501"
